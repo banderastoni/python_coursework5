@@ -1,0 +1,1154 @@
+[
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85584557?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (удалённо)",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84710293?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (личные встречи / по телефону)",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85182601?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (удалённо)",
+    "vacancy_salary_from": 90000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85584176?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (удалённо)",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85177226?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по привлечению партнёров",
+    "vacancy_salary_from": 90000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84822873?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84652376?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (личные встречи / по телефону)",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84423613?host=hh.ru"
+  },
+  {
+    "company_id": "2324020",
+    "company_name": "Точка",
+    "vacancy_name": "Менеджер по B2B-продажам (личные встречи/по телефону)",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84818434?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call-центра (удаленно)",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134538?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Бухгалтер по учету операционных расходов",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85062544?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра на дому",
+    "vacancy_salary_from": 48000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134515?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра, на дому",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": 60000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134561?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 47300,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133588?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call - центра МТС (удаленная работа)",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134366?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по работе с клиентами МТС",
+    "vacancy_salary_from": 40000,
+    "vacancy_salary_to": 55000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133550?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 37500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133695?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер по работе с корпоративными клиентами (Удаленный формат работы)",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/83244628?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер телефонных продаж",
+    "vacancy_salary_from": 51500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133589?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call - центра МТС (удаленная работа)",
+    "vacancy_salary_from": 42000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134517?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по работе с клиентами МТС (удаленная работа)",
+    "vacancy_salary_from": 40000,
+    "vacancy_salary_to": 55000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134077?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер эксплуатации линейно-кабельных сооружений",
+    "vacancy_salary_from": 65000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84009271?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call - центра МТС (удаленно)",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134383?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Ведущий инженер по эксплуатации оборудования ШПД",
+    "vacancy_salary_from": 57700,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/73383026?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 49500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133532?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер по подключению корпоративных клиентов",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84189956?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра на дому",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": 65000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134397?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист call-центра Интернет-магазина МТС (удаленная работа)",
+    "vacancy_salary_from": 40000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134330?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер по работе с корпоративными клиентами",
+    "vacancy_salary_from": 65000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/77215005?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер по эксплуатации инфраструктуры объектов радиоподсистемы",
+    "vacancy_salary_from": 53000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/73984504?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Начинающий специалист контактного центра (удаленная работа)",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134381?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Директор по продажам на массовом рынке, г. Барнаул",
+    "vacancy_salary_from": 200000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85982313?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Старший специалист по продажам услуг",
+    "vacancy_salary_from": 73700,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133735?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер по работе с корпоративными клиентами (Удаленный формат работы)",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/83244630?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Технический пресейл-менеджер по видеонаблюдению",
+    "vacancy_salary_from": 78000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/80733655?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист ремонта и эксплуатации зданий",
+    "vacancy_salary_from": 58000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83085747?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра на дому",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": 60000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134575?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер-энергетик",
+    "vacancy_salary_from": 85000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/82331159?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Бухгалтер по налоговой отчетности",
+    "vacancy_salary_from": 43000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84378809?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по работе с клиентами МТС (удаленно)",
+    "vacancy_salary_from": 28000,
+    "vacancy_salary_to": 42000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133697?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра на дому",
+    "vacancy_salary_from": 50000,
+    "vacancy_salary_to": 65000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134467?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Офис-менеджер",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/78878259?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Монтажник",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84932310?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 40800,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133540?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call - центра МТС (удаленная работа)",
+    "vacancy_salary_from": 42000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134540?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер телефонных продаж",
+    "vacancy_salary_from": 37100,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133542?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра (на дому)",
+    "vacancy_salary_from": 42000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134541?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 58300,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86132790?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 46500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133658?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Специалист по продажам услуг",
+    "vacancy_salary_from": 56600,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86133522?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор контактного центра на дому",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": 60000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134518?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call-центра (удаленно)",
+    "vacancy_salary_from": 42000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134544?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер по эксплуатации ВОЛС",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/81588293?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Стажёр по работе с клиентами",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/82614081?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Оператор call - центра МТС (удаленно)",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86134401?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Инженер по эксплуатации транспортных сетей",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/80580637?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер по работе с корпоративными клиентами (Удаленный формат работы)",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/83244634?host=hh.ru"
+  },
+  {
+    "company_id": "3776",
+    "company_name": "МТС",
+    "vacancy_name": "Менеджер по продажам в салон МТС",
+    "vacancy_salary_from": 41700,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85868041?host=hh.ru"
+  },
+  {
+    "company_id": "9819865",
+    "company_name": "СБМ",
+    "vacancy_name": "Менеджер отдела продаж (кредиты для ИП/ООО)",
+    "vacancy_salary_from": 150000,
+    "vacancy_salary_to": 400000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85878014?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 75000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85256761?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Специалист службы поддержки пользователей",
+    "vacancy_salary_from": 36000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/80245791?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85275079?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85275076?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по продажам (удалённо)",
+    "vacancy_salary_from": 25000,
+    "vacancy_salary_to": 75000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86131841?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85275078?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85275080?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по продажам (удалённо, B2C)",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 80000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85572349?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по работе со школами",
+    "vacancy_salary_from": 55000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85275077?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Телемаркетолог",
+    "vacancy_salary_from": 15000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85074128?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Менеджер по продажам на вводном уроке",
+    "vacancy_salary_from": 20000,
+    "vacancy_salary_to": 85000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85073191?host=hh.ru"
+  },
+  {
+    "company_id": "15478",
+    "company_name": "VK",
+    "vacancy_name": "Оператор call-центра (удаленно)",
+    "vacancy_salary_from": 20000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85072791?host=hh.ru"
+  },
+  {
+    "company_id": "8178",
+    "company_name": "Телеформ ИС",
+    "vacancy_name": "Python Developer",
+    "vacancy_salary_from": 120000,
+    "vacancy_salary_to": 180000,
+    "vacancy_url": "https://api.hh.ru/vacancies/83617001?host=hh.ru"
+  },
+  {
+    "company_id": "4920624",
+    "company_name": "Селфсек",
+    "vacancy_name": "Python-разработчик систем сбора",
+    "vacancy_salary_from": 100000,
+    "vacancy_salary_to": 150000,
+    "vacancy_url": "https://api.hh.ru/vacancies/72687495?host=hh.ru"
+  },
+  {
+    "company_id": "4920624",
+    "company_name": "Селфсек",
+    "vacancy_name": "Python-разработчик в R&D отдел",
+    "vacancy_salary_from": 100000,
+    "vacancy_salary_to": 150000,
+    "vacancy_url": "https://api.hh.ru/vacancies/72687478?host=hh.ru"
+  },
+  {
+    "company_id": "4920624",
+    "company_name": "Селфсек",
+    "vacancy_name": "Инженер SRE (DevOps)",
+    "vacancy_salary_from": 200000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84075034?host=hh.ru"
+  },
+  {
+    "company_id": "4920624",
+    "company_name": "Селфсек",
+    "vacancy_name": "Middle Python developer",
+    "vacancy_salary_from": 150000,
+    "vacancy_salary_to": 200000,
+    "vacancy_url": "https://api.hh.ru/vacancies/72687504?host=hh.ru"
+  },
+  {
+    "company_id": "4920624",
+    "company_name": "Селфсек",
+    "vacancy_name": "Реверс-инженер",
+    "vacancy_salary_from": 100000,
+    "vacancy_salary_to": 160000,
+    "vacancy_url": "https://api.hh.ru/vacancies/54462736?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по сопровождению сети пунктов выдачи",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": 35000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84679046?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Комплектовщик товаров",
+    "vacancy_salary_from": 52000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83813841?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Системный аналитик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 180000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85087441?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер на личном автомобиле",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/80306656?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по продажам (по готовой клиентской базе/м. Дмитровская)",
+    "vacancy_salary_from": 100000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85600680?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по продаже логистических услуг (удалённо)",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/75945558?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по продажам логистических услуг (В2В) удаленно",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": 80000,
+    "vacancy_url": "https://api.hh.ru/vacancies/79216301?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер на личном автомобиле (универсал, минивэн)",
+    "vacancy_salary_from": 35000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84202198?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер в отдел магистральной логистики",
+    "vacancy_salary_from": 90000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85706504?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Оператор склада, г. Химки",
+    "vacancy_salary_from": 50000,
+    "vacancy_salary_to": 55000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84973755?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Комплектовщик-экспедитор",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": 30000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84268625?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер с автомобилем ( вместительный универсал/микроавтобус)",
+    "vacancy_salary_from": 30000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/79877111?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Оператор отгрузки",
+    "vacancy_salary_from": 45000,
+    "vacancy_salary_to": 70000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84068225?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по продажам логистических услуг (b2b) (офис/удаленно)",
+    "vacancy_salary_from": 50000,
+    "vacancy_salary_to": 90000,
+    "vacancy_url": "https://api.hh.ru/vacancies/79971934?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер (подработка)",
+    "vacancy_salary_from": 28000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84371544?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Менеджер по продажам логистических услуг (В2В) удаленно/офис",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": 90000,
+    "vacancy_url": "https://api.hh.ru/vacancies/81480854?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер на личном автомобиле (универсал, минивэн)",
+    "vacancy_salary_from": 37500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84484686?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Оператор call-центра (входящие звонки, без продаж)",
+    "vacancy_salary_from": 27000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83775900?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер на личном автомобиле (универсал, минивэн)",
+    "vacancy_salary_from": 35000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84394497?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Водитель-курьер на личном автомобиле (универсал, минивэн)",
+    "vacancy_salary_from": 35000,
+    "vacancy_salary_to": 40000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84394544?host=hh.ru"
+  },
+  {
+    "company_id": "80660",
+    "company_name": "Boxberry",
+    "vacancy_name": "Экономист",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 55000,
+    "vacancy_url": "https://api.hh.ru/vacancies/80586569?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Трафик-менеджер",
+    "vacancy_salary_from": 110000,
+    "vacancy_salary_to": 140000,
+    "vacancy_url": "https://api.hh.ru/vacancies/82689816?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Руководитель проектов",
+    "vacancy_salary_from": 300000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/81403006?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Юрист по рекламе",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86063329?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Data Scientist (команда Поиска)",
+    "vacancy_salary_from": 350000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83116089?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Юрист по рекламе",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/86063328?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Специалист welcome-службы",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": 110000,
+    "vacancy_url": "https://api.hh.ru/vacancies/78171620?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Middle / Senior QA-инженер в команду Конверсы (коммуникационная платформа)",
+    "vacancy_salary_from": 200000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/82343794?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Трафик-менеджер",
+    "vacancy_salary_from": 110000,
+    "vacancy_salary_to": 140000,
+    "vacancy_url": "https://api.hh.ru/vacancies/83259276?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Эксперт Карьерного центра",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85042775?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Эксперт Карьерного центра",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85092538?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Эксперт Карьерного центра",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85092537?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Эксперт Карьерного центра",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84960129?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер процесса / Delivery manager",
+    "vacancy_salary_from": 200000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/79590912?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Frontend-разработчик в команду A-team",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 420000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84825629?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Специалист службы поддержки пользователей",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/82906755?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Стажер в Службу поддержки пользователей",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 15000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84403631?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Специалист по работе с обратной связью",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84902491?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Специалист службы биллинга",
+    "vacancy_salary_from": 82500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83214568?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Frontend-разработчик в команду WebServices",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 420000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85704974?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по работе с ключевыми клиентами",
+    "vacancy_salary_from": 90000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85305290?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Java разработчик (команда Hermes)",
+    "vacancy_salary_from": 350000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84887358?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Стажер в отдел маркетинга",
+    "vacancy_salary_from": 12000,
+    "vacancy_salary_to": 12000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85108184?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Стажер в службу секретарей (контакт-центр)",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 15000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85222146?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Специалист службы поддержки продаж",
+    "vacancy_salary_from": 60500,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84003443?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Frontend-разработчик в команду Profit",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 420000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85704996?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Эксперт Карьерного центра",
+    "vacancy_salary_from": 80000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85092536?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по работе с действующими клиентами",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85701750?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по работе с ключевыми клиентами",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": 180000,
+    "vacancy_url": "https://api.hh.ru/vacancies/81682195?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Юрист по рекламе",
+    "vacancy_salary_from": 70000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/83756996?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по продажам",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": 130000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84575031?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по продажам",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": 130000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84340734?host=hh.ru"
+  },
+  {
+    "company_id": "1455",
+    "company_name": "HeadHunter",
+    "vacancy_name": "Менеджер по продажам (B2B клиенты)",
+    "vacancy_salary_from": 60000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/84138095?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Java-разработчик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85851921?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Python-разработчик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/86120529?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Fullstack Developer",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 300000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85851923?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "DevOps-инженер",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 400000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85925338?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "IOS-разработчик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 500000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85016318?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Product Analyst",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 300000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85016315?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Программист С++",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85410438?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Программист Python",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85016316?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Разработчик баз данных (удаленно)",
+    "vacancy_salary_from": 180000,
+    "vacancy_salary_to": 260000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84636654?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Frontend-разработчик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 350000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84630582?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "IT Recruiter",
+    "vacancy_salary_from": 100000,
+    "vacancy_salary_to": null,
+    "vacancy_url": "https://api.hh.ru/vacancies/85023026?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Data Scientist",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84630584?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Android-разработчик",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 450000,
+    "vacancy_url": "https://api.hh.ru/vacancies/84630583?host=hh.ru"
+  },
+  {
+    "company_id": "864086",
+    "company_name": "getmatch",
+    "vacancy_name": "Go Developer",
+    "vacancy_salary_from": null,
+    "vacancy_salary_to": 350000,
+    "vacancy_url": "https://api.hh.ru/vacancies/85410439?host=hh.ru"
+  }
+]
